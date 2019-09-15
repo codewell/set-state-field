@@ -1,0 +1,23 @@
+{
+  "name": "state-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewell/state-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codewell/state-actions/issues"
+  },
+  "homepage": "https://github.com/codewell/state-actions#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
